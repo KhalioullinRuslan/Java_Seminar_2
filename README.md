@@ -9,9 +9,10 @@
 
 Напишите метод, который сжимает строку. 
 
-Пример: 
+### **Пример:** 
 
 **Вход:**  aaaabbbcddaaa.
+
 **Выход:** - a4b3cd2a3
 
 .charAt(i)
@@ -26,4 +27,7 @@ stroka == stroka1   ----> False
 
 stroka.equals(stroka1) ------> True
 
+
 ## Task_10
+
+Записать слово TEST в файл 10 раз
